@@ -1,0 +1,24 @@
+# Node.js (React) 관련
+node_modules/
+dist/
+build/
+.env
+
+# Java (Spring Boot) 관련
+target/
+*.jar
+*.war
+*.class
+*.log
+.env
+
+# Gradle 관련 파일
+.gradle/
+build/
+out/
+
+# OS & IDE 관련
+.DS_Store
+.idea/
+.vscode/
+*.iml
